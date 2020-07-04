@@ -11,6 +11,8 @@ namespace MyFirstDotNetCoreDemo.Controllers
 {
     public class HomeController : Controller
     {
+        //  If this code works, then it was writen by Rosabel Olugbenga. If it doesn't, then i can only say one thing  "IT IS WHAT IT IS".
+
         private readonly ILogger<HomeController> _logger;
 
         public HomeController(ILogger<HomeController> logger)
