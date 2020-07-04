@@ -22,6 +22,10 @@ namespace MyFirstDotNetCoreDemo.Controllers
         {
             return View();
         }
+         public IActionResult Rosabel()
+        {
+            return View();
+        }
 
         public IActionResult Privacy()
         {
